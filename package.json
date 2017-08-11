@@ -1,0 +1,33 @@
+{
+  "name": "final_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-less": "^3.3.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "jquery": "^3.2.1",
+    "toastr": "^2.1.2"
+  },
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-html-extend": "^1.1.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinamo7/finalProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinamo7/finalProject/issues"
+  },
+  "homepage": "https://github.com/dinamo7/finalProject#readme"
+}
